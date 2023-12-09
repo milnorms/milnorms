@@ -19,7 +19,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![T-SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server-CC2927)
+  ![T-SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft%20SQL%20Server-333333)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
